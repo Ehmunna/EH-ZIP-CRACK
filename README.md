@@ -1,6 +1,6 @@
 ![logo](Logo/Zip.png)
 # Developer 
-![logo](LLogo/Logo.jpeg)
+![logo](Logo/Logo.jpeg)
 ## use Termux 
 ```
 apt update -y 
