@@ -7,8 +7,13 @@ apt update -y
 apt update -y 
 apt install git -y
 termux-setup-storage
-apt install python -y 
+apt install python -y
+pip install pyzipper
 git clone https://github.com/Ehmunna/EH-ZIP-CRACK.git
 cd EH-ZIP-CRACK
 python eh_zip.py
+```
+## txt file storage 
+```
+cp -r file.txt ~/storage/shared/
 ```
